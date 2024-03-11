@@ -2,24 +2,24 @@
   <img src="./src/readme.png" width="100%" />
 </p>
 
-# 🖼 Slide JS
-Projeto de um site de vendas de bicicletas personalizadas. Nesse projeto eu aprendi bastante sobre sobre HTML e CSS, depois desse projeto e outras práticas aprimorei muito meu CSS.
+# 📊 Dados de Vendas
+Projeto utilizando uma API, para mostrar os dados de vendas de uma empresa. Projeto feito para praticar TypeScript de uma maneira mais "Mundo Real".
 
 - Veja o projeto: [Live Preview](https://slide-javascript.vercel.app/)
 
 ## ⚙️ Funcionalidades
 
-- [x] Slide fluido, totalmente intuitivo;
-- [x] Funciona com o mouse e com o touch;
-- [x] Funciona puxando os próximos slides ou clicando na setinhas;
-- [x] Feito somente com Javascript sem plugins ou bibliotecas;
+- [x] Faz uma requisição de uma API para buscar os dados das vendas;
+- [x] Código feito para ser seguro e protegido contra vários tipos de possíveis erros;
+- [x] Feito utilizando TypeScript e suas boas práticas e conceitos como Typeguard e outros;
 
 ## 🚀 Tecnologias
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 📝 Considerações
 
-Nesse projeto do curso da Origamid, eu pude aprender bastante sobre os eventos em JavaScript, e como não gerar conflitos com eles "pesando" a aplicação, e também a lógica por trás de um slide;
+Nesse projeto e durante o curso da Origamid, eu pude aprender bastante sobre Typescript e praticamente não consegui ficar sem usar Typescript depois disso;
