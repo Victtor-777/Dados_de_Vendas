@@ -1,5 +1,5 @@
 <p>
-  <img src="./img/preview/preview.png" width="100%" />
+  <img src="./src/readme.png" width="100%" />
 </p>
 
 # 🖼 Slide JS
