@@ -5,7 +5,7 @@
 # 📊 Dados de Vendas
 Projeto utilizando uma API, para mostrar os dados de vendas de uma empresa. Projeto feito para praticar TypeScript de uma maneira mais "Mundo Real".
 
-- Veja o projeto: [Live Preview](https://slide-javascript.vercel.app/)
+- Veja o projeto: [Live Preview](https://dados-de-vendas.vercel.app)
 
 ## ⚙️ Funcionalidades
 
